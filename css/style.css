@@ -1,0 +1,25 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+ul {
+    color: green;
+}
+ol {
+    color: papayawhip;
+}
+.first-p {
+    color: red;
+}
+.second-p {
+    color: green;
+}
+.third-p {
+    color: blue;
+}
